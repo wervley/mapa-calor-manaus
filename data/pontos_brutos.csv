@@ -1,0 +1,260 @@
+id,nome,categoria,bairro,zona,lat,lon,anomalia_c,area_m2,criticidade,obs_pt,obs_en
+b001,Adrianópolis,bairro,Adrianópolis,Centro-Sul,-3.0980,-60.0140,3.8,0,3,Verticalização e fachadas envidraçadas concentram calor em Adrianópolis.,High-rise glass facades concentrate heat in Adrianópolis.
+b002,Nossa Senhora das Graças,bairro,Nossa Senhora das Graças,Centro-Sul,-3.1010,-60.0190,3.7,0,3,Bairro nobre adensado próximo ao Centro.,Dense affluent neighborhood near downtown.
+b003,Parque 10 de Novembro,bairro,Parque 10 de Novembro,Centro-Sul,-3.0950,-60.0050,4.9,0,5,3.º bairro mais quente da cidade segundo Fiocruz.,3rd hottest neighborhood per Fiocruz study.
+b004,Chapada,bairro,Chapada,Centro-Sul,-3.0930,-60.0220,5.1,0,5,Vice-recordista de anomalia térmica em Manaus.,Second-highest thermal anomaly in Manaus.
+b005,Aleixo,bairro,Aleixo,Centro-Sul,-3.0830,-59.9870,3.5,0,3,Conjuntos Petro e Morada do Sol.,Petro and Morada do Sol housing complexes.
+b006,Flores,bairro,Flores,Centro-Sul,-3.0700,-60.0050,3.4,0,3,Av. Tancredo Neves e Av. Recife como hotspots.,Av. Tancredo Neves and Av. Recife as hotspots.
+b007,Dom Pedro,bairro,Dom Pedro,Centro-Oeste,-3.0820,-60.0410,5.4,0,5,Bairro mais quente de Manaus segundo medições de superfície.,Hottest neighborhood in Manaus by surface temperature.
+b008,Centro,bairro,Centro,Sul,-3.1340,-60.0250,4.3,0,5,Centro histórico com pedras portuguesas e ruas estreitas.,Historic downtown with cobblestone and narrow streets.
+b009,Cachoeirinha,bairro,Cachoeirinha,Sul,-3.1200,-60.0030,4.4,0,4,Zona de comércio popular adensado.,Dense popular commercial area.
+b010,Praça 14 de Janeiro,bairro,Praça 14 de Janeiro,Sul,-3.1230,-60.0140,3.9,0,4,Próximo ao estádio Sul América e hospitais.,Near Sul América stadium and hospitals.
+b011,Educandos,bairro,Educandos,Sul,-3.1430,-60.0200,3.7,0,4,Ribeirinho ao Igarapé do Educandos.,Riverside on Educandos creek.
+b012,Crespo,bairro,Crespo,Sul,-3.1390,-60.0140,3.6,0,3,Becos críticos no entorno do igarapé.,Critical alleys around the creek.
+b013,Colônia Oliveira Machado,bairro,Colônia Oliveira Machado,Sul,-3.1330,-60.0050,3.5,0,3,Bairro popular adensado.,Densely populated working-class district.
+b014,Japiim,bairro,Japiim,Sul,-3.1180,-59.9890,4.2,0,4,41 °C registrados em set/2024.,41 °C recorded in Sep/2024.
+b015,São Lázaro,bairro,São Lázaro,Sul,-3.1330,-60.0080,3.4,0,3,Bairro tradicional do Centro-Sul.,Traditional South-central neighborhood.
+b016,Petrópolis,bairro,Petrópolis,Sul,-3.1170,-60.0150,3.8,0,4,Adensamento residencial próximo ao Bosque INPA.,Residential density near INPA Bosque.
+b017,Morro da Liberdade,bairro,Morro da Liberdade,Sul,-3.1290,-60.0120,3.7,0,3,Topografia íngreme amplifica exposição solar.,Steep topography amplifies solar exposure.
+b018,São Francisco,bairro,São Francisco,Sul,-3.1240,-60.0060,3.6,0,3,Eixo da Av. Maués.,Av. Maués corridor.
+b019,São Jorge,bairro,São Jorge,Sul,-3.1190,-60.0440,3.2,0,3,Sede do Comando Militar da Amazônia.,Headquarters of Amazon Military Command.
+b020,Vila Buriti,bairro,Vila Buriti,Sul,-3.1070,-60.0080,3.2,0,2,Bairro residencial Centro-Sul.,South-central residential.
+b021,Distrito Industrial 1,distrito_industrial,Distrito Industrial 1,Sul,-3.1280,-59.9810,4.6,0,5,Polo eletro-eletrônico — galpões com telhado escuro.,Electronics manufacturing hub with dark roof warehouses.
+b022,Distrito Industrial 2,distrito_industrial,Distrito Industrial 2,Sul,-3.1390,-59.9650,4.5,0,5,Polo industrial extensão leste.,Industrial hub eastern extension.
+b023,Mauazinho,bairro,Mauazinho,Sul,-3.1430,-59.9650,4.5,0,5,42 °C medidos no porto da Ceasa em set/2024.,42 °C at Ceasa port in Sep/2024.
+b024,Puraquequara,bairro,Puraquequara,Sul,-3.0560,-59.8780,4.0,0,3,Loteamentos em expansão na zona rural.,Expanding rural-edge subdivisions.
+b025,Colônia Antônio Aleixo,bairro,Colônia Antônio Aleixo,Sul,-3.0830,-59.8980,3.8,0,3,Bairro às margens do rio.,Riverside neighborhood.
+b026,Alvorada,bairro,Alvorada,Centro-Oeste,-3.0830,-60.0440,4.7,0,5,Conjunto crítico junto ao Dom Pedro e Chapada.,Critical cluster with Dom Pedro and Chapada.
+b027,Planalto,bairro,Planalto,Centro-Oeste,-3.0800,-60.0570,4.1,0,4,Eixo Av. das Torres.,Av. das Torres corridor.
+b028,Da Paz,bairro,Da Paz,Centro-Oeste,-3.0700,-60.0440,3.8,0,3,Adensamento residencial popular.,Popular residential density.
+b029,São Geraldo,bairro,São Geraldo,Centro-Oeste,-3.0810,-60.0510,3.7,0,3,Bairro entre Compensa e Alvorada.,Between Compensa and Alvorada.
+b030,Glória,bairro,Glória,Oeste,-3.1060,-60.0380,4.0,0,4,Hotspot histórico do Centro-Oeste.,Historic Center-West hotspot.
+b031,Santo Antônio,bairro,Santo Antônio,Oeste,-3.1100,-60.0470,4.2,0,4,Becos com ventilação prejudicada.,Alleys with poor ventilation.
+b032,Vila da Prata,bairro,Vila da Prata,Oeste,-3.1110,-60.0560,4.1,0,4,Forte adensamento próximo ao rio Negro.,Dense settlement near Rio Negro.
+b033,Compensa,bairro,Compensa,Oeste,-3.0950,-60.0850,3.8,0,4,Compensa 1 / 2 / 3 com perfis térmicos similares.,Compensa 1 / 2 / 3 with similar thermal profiles.
+b034,São Raimundo,bairro,São Raimundo,Oeste,-3.1090,-60.0500,3.7,0,3,Sede da Marinha — orla do rio Negro.,Brazilian Navy base — Rio Negro shore.
+b035,Nova Esperança,bairro,Nova Esperança,Oeste,-3.0900,-60.0780,3.6,0,3,Expansão recente.,Recent urban expansion.
+b036,Lírio do Vale,bairro,Lírio do Vale,Oeste,-3.0800,-60.0700,3.5,0,3,Bairro de transição entre Compensa e Tarumã.,Transitional between Compensa and Tarumã.
+b037,Redenção,bairro,Redenção,Oeste,-3.0840,-60.0540,3.4,0,3,Próximo à UPA Redenção.,Near UPA Redenção.
+b038,Cidade Nova,bairro,Cidade Nova,Norte,-3.0260,-60.0090,3.8,0,4,Maior bairro do Norte do Brasil em população.,Largest neighborhood in northern Brazil by population.
+b039,Monte das Oliveiras,bairro,Monte das Oliveiras,Norte,-3.0150,-60.0060,3.7,0,3,Expansão residencial recente.,Recent residential expansion.
+b040,Santa Etelvina,bairro,Santa Etelvina,Norte,-2.9990,-60.0140,3.6,0,3,Loteamentos próximos à Reserva Ducke.,Subdivisions near Ducke Reserve.
+b041,Nova Cidade,bairro,Nova Cidade,Norte,-3.0050,-59.9990,3.6,0,3,Conjunto habitacional grande.,Large housing complex.
+b042,Colônia Terra Nova,bairro,Colônia Terra Nova,Norte,-3.0140,-60.0210,3.5,0,3,Comunidade tradicional preservada.,Preserved traditional community.
+b043,Cidade de Deus,bairro,Cidade de Deus,Norte,-3.0490,-60.0150,3.9,0,4,Adensamento popular acelerado.,Rapid popular densification.
+b044,Lago Azul,bairro,Lago Azul,Norte,-3.0430,-60.0110,3.4,0,2,Bairro com lago natural.,Neighborhood with natural lake.
+b045,Manôa,bairro,Manôa,Norte,-3.0270,-60.0240,3.6,0,3,Eixo Av. Noel Nutels.,Av. Noel Nutels corridor.
+b046,Novo Israel,bairro,Novo Israel,Norte,-3.0090,-60.0270,3.4,0,2,Comunidade religiosa de origem.,Religious-origin community.
+b047,Amazonino Mendes,bairro,Amazonino Mendes,Norte,-2.9870,-59.9970,3.7,0,3,Loteamento popular.,Popular subdivision.
+b048,Riacho Doce,bairro,Riacho Doce,Norte,-3.0040,-59.9870,3.5,0,3,Riacho Doce 1 / 2 / 3.,Riacho Doce 1 / 2 / 3.
+b049,Viver Melhor,bairro,Viver Melhor,Norte,-2.9920,-60.0190,3.8,0,4,Conjunto habitacional Minha Casa Minha Vida.,Government housing complex.
+b050,Jorge Teixeira,bairro,Jorge Teixeira,Leste,-3.0280,-59.9530,4.3,0,5,Maior em população. Av. Autaz Mirim.,Largest by population. Av. Autaz Mirim.
+b051,São José Operário,bairro,São José Operário,Leste,-3.0510,-59.9400,4.6,0,5,Bairro mais ameaçado por aquecimento futuro segundo Unicamp.,Most heat-threatened neighborhood per Unicamp.
+b052,Tancredo Neves,bairro,Tancredo Neves,Leste,-3.0780,-59.9520,4.1,0,4,Adensamento residencial popular.,Popular residential density.
+b053,Coroado,bairro,Coroado,Leste,-3.0760,-59.9630,3.8,0,4,Coroado 1 / 2 / 3 — sede da UFAM.,Coroado 1 / 2 / 3 — UFAM main campus.
+b054,Zumbi dos Palmares,bairro,Zumbi,Leste,-3.0470,-59.9320,3.9,0,4,Avenida Autaz Mirim.,Av. Autaz Mirim.
+b055,Armando Mendes,bairro,Armando Mendes,Leste,-3.0610,-59.9270,3.7,0,3,Bairro popular zona Leste.,Eastern working-class district.
+b056,Gilberto Mestrinho,bairro,Gilberto Mestrinho,Leste,-3.0670,-59.9170,3.7,0,3,Loteamento popular leste.,Eastern popular settlement.
+b057,Ponta Negra,bairro,Ponta Negra,Oeste,-3.0880,-60.1080,3.2,0,3,Verticalização da orla aumenta calor.,Waterfront verticalization increases heat.
+b058,Tarumã,bairro,Tarumã,Oeste,-3.0570,-60.0680,3.0,0,2,Bairro com cobertura vegetal preservada.,Neighborhood with preserved vegetation.
+b059,Tarumã-Açu,bairro,Tarumã-Açu,Oeste,-3.0440,-60.1230,3.2,0,2,Expansão de condomínios fechados.,Gated community expansion.
+b060,Manaus 2000,bairro,Manaus 2000,Leste,-3.0640,-59.9430,3.7,0,3,Conjunto habitacional sem arborização.,Housing complex without trees.
+beco01,Beco da Carmelita,beco,Dom Pedro,Centro-Oeste,-3.0830,-60.0420,5.5,80,5,Largura inferior a 1.2 m. Calor noturno extremo.,Width under 1.2 m. Extreme night heat.
+beco02,Beco da União,beco,Dom Pedro,Centro-Oeste,-3.0815,-60.0405,5.4,80,5,Telhas escuras de fibrocimento.,Dark fibrocement roofing.
+beco03,Beco do Sítio,beco,Dom Pedro,Centro-Oeste,-3.0825,-60.0395,5.2,80,4,Pavimento escuro absorve calor.,Dark pavement absorbs heat.
+beco04,Beco do Galinheiro,beco,São José Operário,Leste,-3.0515,-59.9395,5.0,80,5,Sem vento; 33 °C às 22h.,No wind flow; 33 °C at 10 pm.
+beco05,Beco do Buritizal,beco,São José Operário,Leste,-3.0525,-59.9410,4.8,80,4,Asfalto novo amplia retenção.,New asphalt amplifies retention.
+beco06,Travessa do Operário,beco,São José Operário,Leste,-3.0500,-59.9385,4.7,80,4,Travessa adensada.,Dense alley.
+beco07,Beco do Mestre,beco,Alvorada 2,Centro-Oeste,-3.0820,-60.0450,5.0,80,4,Densidade construtiva alta.,High built density.
+beco08,Beco da Lua,beco,Alvorada 1,Centro-Oeste,-3.0840,-60.0445,4.9,80,4,Sem árvores no eixo.,No trees along axis.
+beco09,Beco do Cuieiras,beco,Alvorada 3,Centro-Oeste,-3.0810,-60.0455,4.8,80,4,Adensamento popular.,Popular density.
+beco10,Beco da Boa Esperança,beco,Chapada,Centro-Sul,-3.0925,-60.0215,4.9,80,4,Calor residual noturno.,Residual night heat.
+beco11,Beco do Macedo,beco,Chapada,Centro-Sul,-3.0935,-60.0210,4.8,80,4,Concreto exposto.,Exposed concrete.
+beco12,Travessa das Acácias,beco,Chapada,Centro-Sul,-3.0920,-60.0225,4.9,80,4,Topografia íngreme.,Steep topography.
+beco13,Beco da Sereia,beco,Crespo,Sul,-3.1395,-60.0145,4.5,80,3,Próximo ao igarapé.,Near creek.
+beco14,Beco do Pão Doce,beco,Crespo,Sul,-3.1385,-60.0135,4.4,80,3,Bairro adensado.,Dense neighborhood.
+beco15,Beco da Compensinha,beco,Compensa 2,Oeste,-3.0945,-60.0855,4.7,80,4,Sem ventilação cruzada.,No cross-ventilation.
+beco16,Beco do Adail,beco,Compensa 1,Oeste,-3.0955,-60.0845,4.6,80,4,Telhas baixas armazenam calor.,Low roofs trap heat.
+beco17,Beco da Tabatinga,beco,Compensa 3,Oeste,-3.0935,-60.0865,4.5,80,4,Próximo ao igarapé.,Near creek.
+beco18,Beco da Família,beco,Santo Antônio,Oeste,-3.1095,-60.0475,4.7,80,4,Sem cerca viva ou árvore.,No hedge or tree.
+beco19,Beco do Mocó,beco,Glória,Oeste,-3.1055,-60.0385,4.6,80,4,Sem arborização.,No tree cover.
+beco20,Beco do 4,beco,Jorge Teixeira 4,Leste,-3.0285,-59.9525,5.0,80,5,Telhas escuras; calor extremo.,Dark roofs; extreme heat.
+av01,Av. Constantino Nery,avenida,Centro-Sul,Centro-Sul,-3.1090,-60.0150,4.5,0,5,Eixo Centro-Sul/Oeste; asfalto a 60 °C.,Center-South/West corridor; 60 °C asphalt.
+av02,Av. Djalma Batista,avenida,Adrianópolis/Chapada,Centro-Sul,-3.0950,-60.0190,4.4,0,5,Asfalto até 58 °C; eixo do Manauara Shopping.,Up to 58 °C asphalt; Manauara Shopping corridor.
+av03,Av. das Torres,avenida,Centro-Oeste,Centro-Oeste,-3.0570,-60.0260,4.3,0,5,Conexão Norte-Centro com saída para BR-174.,Connection to BR-174 highway.
+av04,Av. Mário Ypiranga,avenida,Adrianópolis,Centro-Sul,-3.0930,-60.0140,4.2,0,4,Antiga Av. Recife.,Formerly Av. Recife.
+av05,Av. Camapuã,avenida,Cidade Nova,Norte,-3.0290,-60.0120,4.3,0,5,Eixo da Cidade Nova com UPA José Rodrigues.,Cidade Nova corridor with UPA José Rodrigues.
+av06,Av. Autaz Mirim,avenida,Jorge Teixeira,Leste,-3.0290,-59.9560,4.4,0,5,Principal eixo da Zona Leste.,Main East Zone corridor.
+av07,Av. Cosme Ferreira,avenida,Coroado/Aleixo,Leste,-3.0760,-59.9700,4.2,0,5,Eixo do Hospital João Lúcio.,João Lúcio Hospital corridor.
+av08,Av. Brasil,avenida,Compensa/Santo Antônio,Oeste,-3.1010,-60.0670,4.3,0,4,Eixo histórico da Zona Oeste.,Historic West Zone corridor.
+av09,Av. Sete de Setembro,avenida,Centro/Cachoeirinha,Sul,-3.1290,-60.0190,4.4,0,5,Corredor BRT da PMM.,Manaus BRT corridor.
+av10,Av. Eduardo Ribeiro,avenida,Centro,Sul,-3.1330,-60.0240,4.5,0,5,Eixo do Teatro Amazonas.,Amazon Theatre corridor.
+av11,Av. Coronel Teixeira,avenida,Ponta Negra,Oeste,-3.0900,-60.1060,4.0,0,4,Orla Ponta Negra. Asfalto preto exposto.,Ponta Negra waterfront. Exposed black asphalt.
+av12,Av. Margarita,avenida,Cidade Nova,Norte,-3.0240,-60.0070,4.0,0,4,Eixo de concessionárias e Sumaúma Shopping.,Dealership and Sumaúma Shopping corridor.
+av13,Av. Noel Nutels,avenida,Cidade Nova/Manôa,Norte,-3.0270,-60.0190,4.0,0,4,Conexão com Av. das Torres.,Connection to Av. das Torres.
+av14,Av. Maués,avenida,Cachoeirinha,Sul,-3.1230,-60.0090,4.2,0,4,Corredor de ônibus.,Bus corridor.
+av15,Av. Buriti,avenida,Distrito Industrial,Sul,-3.1290,-59.9820,4.6,0,5,Coração do Polo Industrial.,Industrial Pole heart.
+av16,Av. Rodrigo Otávio,avenida,Japiim/DI1,Sul,-3.1180,-59.9870,4.4,0,5,Corredor automotivo.,Automotive corridor.
+av17,Av. André Araújo,avenida,Aleixo/Petrópolis,Centro-Sul,-3.1010,-59.9870,4.0,0,4,Eixo da Fundação CECON.,CECON Foundation corridor.
+av18,Av. Tancredo Neves,avenida,Flores,Centro-Sul,-3.0780,-60.0080,4.0,0,4,Saída para Tarumã.,Exit to Tarumã.
+av19,Av. Recife,avenida,Adrianópolis,Centro-Sul,-3.0950,-60.0150,4.1,0,4,Antiga Mário Ypiranga.,Former Mário Ypiranga.
+av20,Av. Beira-Rio,avenida,Educandos,Sul,-3.1450,-60.0190,4.0,0,4,Orla do rio.,Riverside.
+av21,Av. Leonardo Malcher,avenida,Praça 14,Sul,-3.1230,-60.0150,4.1,0,4,Próximo ao estádio.,Near stadium.
+es01,E.E. Tenente Rego Barros,escola,Adrianópolis,Centro-Sul,-3.0975,-60.0145,3.8,1200,5,Salas oeste registraram 41 °C em set/2024.,Western classrooms hit 41 °C in Sep/2024.
+es02,E.E. Roxana Pereira Bonessi,escola,Alvorada,Centro-Oeste,-3.0825,-60.0445,4.7,1000,5,Sem ar-condicionado em 60% das salas.,No A/C in 60% of classrooms.
+es03,E.E. João dos Santos Braga,escola,Dom Pedro,Centro-Oeste,-3.0820,-60.0405,5.4,900,5,Telhado de fibrocimento; 39 °C internos.,Fibrocement roofing; 39 °C indoors.
+es04,E.E. Marquês de Santa Cruz,escola,Centro,Sul,-3.1320,-60.0240,4.3,1100,4,Prédio histórico sem ventilação cruzada.,Historic building without cross-ventilation.
+es05,E.E. Áurea Pinheiro Braga,escola,Jorge Teixeira,Leste,-3.0285,-59.9540,4.3,1000,4,Adensamento elevado.,High population density.
+es06,E.E. Iracema Santos do Vale,escola,São José Operário,Leste,-3.0510,-59.9400,4.6,950,5,Sem isolamento térmico no telhado.,No roof thermal insulation.
+es07,E.E. Brigadeiro Hilário Maúa,escola,Cidade Nova,Norte,-3.0270,-60.0080,3.8,1300,4,AC parcial.,Partial A/C.
+es08,E.E. Petronilha Maria de Souza,escola,Compensa,Oeste,-3.0950,-60.0850,3.8,1000,4,Sem ventilação cruzada.,No cross-ventilation.
+es09,E.E. Solon de Lucena,escola,São Raimundo,Oeste,-3.1090,-60.0500,3.7,1100,4,Sombreamento parcial.,Partial shading.
+es10,E.E. Frederico Veiga,escola,Praça 14,Sul,-3.1230,-60.0150,3.9,950,4,Janelas mal posicionadas.,Poorly oriented windows.
+es11,E.M. Lourenço Braga,escola,Monte das Oliveiras,Norte,-3.0150,-60.0060,3.7,800,4,Pátio sem cobertura.,Uncovered courtyard.
+es12,E.M. Solange Nascimento da Silva,escola,Tancredo Neves,Leste,-3.0780,-59.9520,4.1,800,4,Bloco metálico amplifica calor.,Metal block amplifies heat.
+es13,E.M. Senador João Bosco Ramos de Lima,escola,Japiim,Sul,-3.1180,-59.9890,4.2,900,4,Sem ar-condicionado.,No A/C.
+es14,E.M. Maria Madalena,escola,Aleixo,Centro-Sul,-3.0830,-59.9870,3.5,800,3,Reforma recente trouxe alívio parcial.,Recent renovation eased part of the heat.
+es15,Colégio Dom Bosco,escola,Centro,Sul,-3.1310,-60.0250,4.3,1500,4,Tradição centenária; prédio histórico.,Historic centennial school.
+ce01,CMEI Tia Lourdinha,creche,Chapada,Centro-Sul,-3.0925,-60.0220,5.1,400,5,Sem AC em 60% das salas até 2025.,No A/C in 60% of rooms until 2025.
+ce02,CMEI Pingo de Gente,creche,Nova Cidade,Norte,-3.0050,-59.9990,3.6,400,3,Atende 180 crianças.,Serves 180 children.
+ce03,CMEI Aldebaro Cavalcante,creche,Cidade Nova,Norte,-3.0270,-60.0090,3.8,400,4,Eixo Av. Camapuã.,Av. Camapuã corridor.
+ce04,CMEI Tio Patinhas,creche,Jorge Teixeira,Leste,-3.0285,-59.9540,4.3,400,4,Bairro mais populoso.,Most populous neighborhood.
+ce05,CMEI Casinha Feliz,creche,Parque 10,Centro-Sul,-3.0950,-60.0050,4.9,400,5,Bairro 3.º mais quente.,3rd hottest neighborhood.
+ce06,CMEI Tia Adair,creche,Cachoeirinha,Sul,-3.1200,-60.0030,4.4,400,4,Comércio popular ao redor.,Surrounded by popular commerce.
+ce07,CMEI Estrelinha,creche,Compensa 2,Oeste,-3.0945,-60.0855,3.8,400,3,Becos críticos no entorno.,Critical alleys around.
+ce08,CMEI Sonho Meu,creche,Tarumã,Oeste,-3.0570,-60.0680,3.0,400,2,Cobertura vegetal preservada.,Preserved vegetation cover.
+un01,UFAM Campus Universitário,universidade,Coroado,Leste,-3.0950,-59.9690,3.8,15000,4,Bloco do ICE com 37 °C internos sem ar.,ICE building hits 37 °C without A/C.
+un02,UEA Tarumã,universidade,Tarumã,Oeste,-3.0570,-60.0680,3.0,5000,2,Reitoria UEA.,UEA main administration.
+un03,Nilton Lins,universidade,Flores,Centro-Sul,-3.0700,-60.0050,3.4,4500,3,Av. Prof. Nilton Lins.,Av. Prof. Nilton Lins.
+un04,IFAM Centro,universidade,Centro,Sul,-3.1320,-60.0250,4.3,3500,4,Campus Manaus Centro.,Manaus Center campus.
+un05,IFAM Distrito Industrial,universidade,Distrito Industrial,Sul,-3.1290,-59.9810,4.6,3000,5,Próximo ao Polo Industrial.,Near Industrial Pole.
+un06,UNINORTE Centro,universidade,Centro,Sul,-3.1310,-60.0240,4.3,3000,4,Campus principal.,Main campus.
+un07,UNINORTE Aleixo,universidade,Aleixo,Centro-Sul,-3.0830,-59.9870,3.5,3000,3,Campus secundário.,Secondary campus.
+hp01,Hospital e PS Dr. João Lúcio,hospital,Coroado,Leste,-3.0760,-59.9630,4.1,4500,5,Espera externa exposta ao sol.,Open outdoor wait area.
+hp02,Hospital Delphina Aziz,hospital,Aleixo,Leste,-3.0720,-59.9610,4.0,5000,5,Fila de ambulâncias e pacientes ao sol.,Ambulance and patient queue under sun.
+hp03,Hospital PS 28 de Agosto,hospital,Praça 14,Sul,-3.1240,-60.0140,3.8,3500,5,Edifício antigo. Atende a Zona Sul.,Old building. South Zone reference.
+hp04,Hospital Universitário Getúlio Vargas,hospital,Praça 14,Sul,-3.1230,-60.0150,3.7,4000,4,Janelas pequenas. UFAM.,Small windows. UFAM-affiliated.
+hp05,Hospital da Criança Dr. Fajardo,hospital,Compensa,Oeste,-3.0950,-60.0830,3.8,2500,5,Brinquedoteca quente.,Hot playroom.
+hp06,Maternidade Ana Braga,hospital,Praça 14,Sul,-3.1240,-60.0150,3.7,3000,4,PSP exposto.,Exposed entry.
+hp07,Maternidade Azilda Marreiro,hospital,Nova Cidade,Norte,-3.0050,-59.9990,3.5,2500,3,Estacionamento sem sombra.,Parking without shade.
+hp08,Hospital Adventista de Manaus,hospital,Nossa Senhora das Graças,Centro-Sul,-3.1010,-60.0190,3.7,3500,4,Aumento de atendimentos por desidratação.,Increase in dehydration cases.
+hp09,Hospital Beneficente Português,hospital,Nossa Senhora das Graças,Centro-Sul,-3.1010,-60.0190,3.8,3000,4,Edifício antigo.,Old building.
+hp10,Fundação CECON,hospital,Adrianópolis,Centro-Sul,-3.0970,-60.0150,3.8,3500,4,Centro de oncologia.,Oncology center.
+hp11,FHEMOAM Hemocentro,hospital,Adrianópolis,Centro-Sul,-3.0980,-60.0150,3.8,2500,3,Doadores ao sol.,Donors in queue under sun.
+hp12,Fundação de Medicina Tropical,hospital,Adrianópolis,Centro-Sul,-3.0975,-60.0145,3.8,4000,4,Pátio interno quente.,Hot inner courtyard.
+hp13,Hospital Francisca Mendes,hospital,Cidade Nova,Norte,-3.0260,-60.0090,3.5,3500,4,Cardiologia.,Cardiology.
+up01,UPA Cidade Nova José Rodrigues,upa,Cidade Nova,Norte,-3.0290,-60.0120,3.6,1200,4,Av. Camapuã.,Av. Camapuã.
+up02,UPA São José,upa,São José Operário,Leste,-3.0510,-59.9395,4.6,1000,5,Espera externa exposta.,Exposed outdoor wait.
+up03,UPA Coroado,upa,Coroado,Leste,-3.0760,-59.9640,3.8,1000,4,Atendimento 24h.,24h care.
+up04,UPA Compensa,upa,Compensa,Oeste,-3.0950,-60.0850,3.7,1100,4,Atendimento 24h.,24h care.
+up05,UPA Redenção,upa,Redenção,Oeste,-3.0840,-60.0540,3.4,1000,3,Atendimento 24h.,24h care.
+up06,UPA Alvorada,upa,Alvorada,Centro-Oeste,-3.0825,-60.0440,4.7,1100,5,Crítica — fila externa sob o sol.,Critical — outdoor queue under sun.
+up07,UPA Campos Sales,upa,Cidade Nova,Norte,-3.0240,-60.0150,3.5,1000,3,Atendimento 24h.,24h care.
+up08,UPA Zona Leste,upa,Coroado,Leste,-3.0780,-59.9620,3.8,1000,4,Atendimento 24h.,24h care.
+sp01,SPA Coroado,spa,Coroado,Leste,-3.0760,-59.9630,3.7,500,4,Pronto atendimento.,Walk-in clinic.
+sp02,SPA Redenção,spa,Redenção,Oeste,-3.0840,-60.0540,3.3,500,3,Pronto atendimento.,Walk-in clinic.
+sp03,SPA São Raimundo,spa,São Raimundo,Oeste,-3.1090,-60.0500,3.6,500,3,Pronto atendimento.,Walk-in clinic.
+sp04,SPA Cidade Nova,spa,Cidade Nova,Norte,-3.0270,-60.0090,3.5,500,3,Pronto atendimento.,Walk-in clinic.
+sp05,SPA Planalto,spa,Planalto,Centro-Oeste,-3.0800,-60.0570,3.9,500,4,Pronto atendimento.,Walk-in clinic.
+sh01,Manauara Shopping,shopping,Adrianópolis,Centro-Sul,-3.0985,-60.0140,3.8,12000,5,Estacionamento externo a 58 °C.,Outdoor parking at 58 °C.
+sh02,Amazonas Shopping,shopping,Chapada,Centro-Sul,-3.0935,-60.0210,5.0,11000,5,Fachada cinza absorve calor.,Grey facade absorbs heat.
+sh03,Shopping Phelippe Daou,shopping,Cidade de Deus,Norte,-3.0490,-60.0150,3.9,9000,4,Estacionamento aberto.,Open parking.
+sh04,Shopping Manaus Via Norte,shopping,Cidade Nova,Norte,-3.0260,-60.0090,3.8,10000,4,Estacionamento descoberto.,Uncovered parking.
+sh05,Sumaúma Park Shopping,shopping,Cidade Nova,Norte,-3.0240,-60.0070,3.8,11000,4,Estacionamento aberto crítico.,Critical open parking.
+sh06,Studio 5 Festival Mall,shopping,Distrito Industrial 1,Sul,-3.1280,-59.9810,4.6,9000,5,Entorno de galpões.,Surrounded by warehouses.
+sh07,Millennium Shopping Center,shopping,Adrianópolis,Centro-Sul,-3.0985,-60.0150,3.8,7000,3,Boutique de luxo.,Luxury boutique mall.
+sh08,Ponta Negra Shopping,shopping,Ponta Negra,Oeste,-3.0890,-60.1080,3.2,8000,3,Próximo à orla.,Near waterfront.
+sh09,Shopping Ponta Negra Boulevard,shopping,Ponta Negra,Oeste,-3.0900,-60.1090,3.2,6500,3,Cobertura parcial.,Partial cover.
+sh10,Shopping Cidade Leste,shopping,Coroado,Leste,-3.0760,-59.9630,3.8,7500,4,Atende toda zona Leste.,Serves entire East Zone.
+sh11,Grande Circular Shopping,shopping,São José Operário,Leste,-3.0510,-59.9400,4.6,7500,5,Próximo a UPA São José.,Near UPA São José.
+co01,Toyota - Av. das Torres,concessionaria,Alvorada,Centro-Oeste,-3.0820,-60.0440,4.7,4000,5,Pátio de 4000 m² sob sol.,4000 m² yard exposed.
+co02,Honda - Av. Djalma Batista,concessionaria,Adrianópolis,Centro-Sul,-3.0950,-60.0190,4.4,3500,5,Pátio crítico.,Critical yard.
+co03,Volkswagen - Av. Constantino Nery,concessionaria,Centro-Sul,Centro-Sul,-3.1050,-60.0150,4.5,4000,5,Pátio extenso.,Large yard.
+co04,Hyundai - Av. das Torres,concessionaria,Centro-Oeste,Centro-Oeste,-3.0570,-60.0260,4.3,3500,4,Pátio aberto.,Open yard.
+co05,BYD - Cidade Nova,concessionaria,Cidade Nova,Norte,-3.0260,-60.0090,3.8,3500,4,Concessionária EV.,EV dealership.
+co06,GWM - Av. Margarita,concessionaria,Cidade Nova,Norte,-3.0240,-60.0070,3.8,3500,4,Concessionária EV/SUV.,EV/SUV dealership.
+co07,Caoa Chery - Av. Rodrigo Otávio,concessionaria,Japiim,Sul,-3.1180,-59.9880,4.2,3000,5,Eixo automotivo do Japiim.,Japiim automotive corridor.
+co08,BMW Saga - Adrianópolis,concessionaria,Adrianópolis,Centro-Sul,-3.0985,-60.0140,3.8,2500,3,Premium brand.,Premium brand.
+co09,Mercedes-Benz - Adrianópolis,concessionaria,Adrianópolis,Centro-Sul,-3.0975,-60.0140,3.8,2500,3,Premium brand.,Premium brand.
+pt01,Teatro Amazonas,ponto_turistico,Centro,Sul,-3.1303,-60.0235,4.3,3500,5,Pedras portuguesas a 55 °C ao meio-dia.,Cobblestone reaches 55 °C at noon.
+pt02,Mercado Adolpho Lisboa,ponto_turistico,Centro,Sul,-3.1357,-60.0241,4.4,2500,5,Telhado metálico antigo.,Old metal roof.
+pt03,Praça São Sebastião,ponto_turistico,Centro,Sul,-3.1303,-60.0238,4.3,2000,4,Calor radiante das pedras.,Radiant heat from stones.
+pt04,Largo de São Sebastião,ponto_turistico,Centro,Sul,-3.1308,-60.0240,4.3,1500,4,Sob o sol direto.,Direct sunlight.
+pt05,Encontro das Águas,ponto_turistico,Centro,Sul,-3.1330,-59.9560,2.0,0,3,Saída pelo porto.,Departure from port.
+pt06,Praia da Ponta Negra,ponto_turistico,Ponta Negra,Oeste,-3.0830,-60.1100,2.5,5000,5,Areia a 60 °C em set/out.,Sand at 60 °C in Sep/Oct.
+pt07,Palácio Rio Negro,ponto_turistico,Centro,Sul,-3.1313,-60.0240,4.3,1800,4,Arquitetura colonial.,Colonial architecture.
+pt08,Palacete Provincial,ponto_turistico,Centro,Sul,-3.1325,-60.0249,4.3,1500,3,Praça da Polícia.,Police Square.
+pt09,Museu da Amazônia MUSA,ponto_turistico,Cidade de Deus,Norte,-2.9610,-59.9290,1.0,3000,2,Reserva Adolpho Ducke; refúgio fresco.,Adolpho Ducke Reserve; cool refuge.
+pt10,Bosque da Ciência INPA,ponto_turistico,Petrópolis,Sul,-3.0950,-59.9900,1.5,4000,2,Refúgio fresco urbano.,Urban cool refuge.
+pt11,Jardim Botânico Adolpho Ducke,ponto_turistico,Cidade de Deus,Norte,-2.9590,-59.9270,0.5,5000,1,Maior reserva urbana do mundo.,World's largest urban reserve.
+pt12,Centro Cultural dos Povos da Amazônia,ponto_turistico,Centro,Sul,-3.1320,-60.0230,4.3,2500,4,Espaço cultural do governo.,State cultural venue.
+pt13,Memorial Pedro Teixeira,ponto_turistico,Centro,Sul,-3.1330,-60.0240,4.3,1500,3,Marco histórico.,Historic landmark.
+pt14,Vila Olímpica de Manaus,ponto_turistico,Compensa,Oeste,-3.0950,-60.0850,3.8,8000,4,Quadras esportivas expostas.,Exposed sports courts.
+pt15,Arena da Amazônia,ponto_turistico,Flores,Centro-Sul,-3.0834,-60.0270,3.6,15000,5,Arquibancada coberta a 38 °C em jogos diurnos.,Covered seating at 38 °C in day games.
+pt16,Sambódromo de Manaus,ponto_turistico,Aleixo,Centro-Sul,-3.0860,-59.9810,3.6,8000,4,Concreto exposto.,Exposed concrete.
+pt17,Catedral Metropolitana,ponto_turistico,Centro,Sul,-3.1342,-60.0244,4.3,2000,4,Praça da Matriz.,Cathedral Square.
+pt18,Igreja de São Sebastião,ponto_turistico,Centro,Sul,-3.1303,-60.0238,4.3,1500,4,Praça São Sebastião.,Saint Sebastian Square.
+pt19,Studio 5 Centro de Convenções,ponto_turistico,Distrito Industrial 1,Sul,-3.1280,-59.9810,4.6,8000,5,Entorno crítico.,Critical surroundings.
+pt20,Centro de Convenções Vasco Vasques,ponto_turistico,Flores,Centro-Sul,-3.0700,-60.0050,3.4,7000,3,Eventos anuais.,Annual events.
+pt21,Marina do Davi,ponto_turistico,Tarumã,Oeste,-3.0570,-60.0700,3.0,3000,2,Embarcações na orla.,Boats on the waterfront.
+mil01,CMA Comando Militar da Amazônia,militar_exercito,São Jorge,Sul,-3.1180,-60.0440,3.5,8000,4,Sede do maior comando do EB.,Largest Brazilian Army command HQ.
+mil02,12ª Região Militar,militar_exercito,São Jorge,Sul,-3.1180,-60.0440,3.5,5000,4,Av. do Exército.,Army Avenue.
+mil03,1ª Brigada de Infantaria de Selva,militar_exercito,São Jorge,Sul,-3.1170,-60.0440,3.5,4500,4,Brigada de operações na selva.,Jungle operations brigade.
+mil04,CIGS Centro de Instrução de Guerra na Selva,militar_exercito,São Jorge,Sul,-3.1170,-60.0440,3.5,7000,5,Treinamentos extremos sob sol.,Extreme training under sun.
+mil05,4º Centro de Telemática de Área,militar_exercito,Compensa,Oeste,-3.0950,-60.0830,3.8,3500,3,Comunicações.,Communications.
+mil06,Hospital Militar de Área de Manaus,militar_exercito,São Jorge,Sul,-3.1180,-60.0440,3.5,4000,4,Hospital militar.,Military hospital.
+mil07,12º Depósito de Suprimento,militar_exercito,São Jorge,Sul,-3.1170,-60.0450,3.5,4500,3,Depósito de suprimento.,Supply depot.
+mil08,2º Grupamento de Engenharia,militar_exercito,São Jorge,Sul,-3.1180,-60.0450,3.5,4000,3,Engenharia militar.,Military engineering.
+mil09,Base Aérea de Manaus BAMN,militar_fab,Tarumã,Oeste,-3.0386,-60.0497,3.4,15000,5,Pista de pouso a 65 °C em set/2024.,Runway at 65 °C in Sep/2024.
+mil10,VII Comando Aéreo Regional,militar_fab,Distrito Industrial,Sul,-3.1450,-59.9860,4.0,8000,4,Ponta Pelada.,Ponta Pelada.
+mil11,Aeroporto Ponta Pelada,militar_fab,Distrito Industrial,Sul,-3.1450,-59.9860,4.0,12000,5,Compartilhado civil/militar.,Civil/military shared.
+mil12,CINDACTA IV,militar_fab,Tarumã,Oeste,-3.0386,-60.0497,3.4,5000,4,Controle aéreo amazônico.,Amazonian air control.
+mil13,Esquadrão Arara 1º/9º GAv,militar_fab,Tarumã,Oeste,-3.0386,-60.0497,3.4,5000,4,C-105 Amazonas.,C-105 Amazonas.
+mil14,Esquadrão Carajás,militar_fab,Tarumã,Oeste,-3.0386,-60.0497,3.4,4000,4,C-98 Caravan.,C-98 Caravan.
+mil15,Comando 9º Distrito Naval,militar_marinha,São Raimundo,Oeste,-3.1320,-60.0260,3.5,5000,4,Marinha do Brasil.,Brazilian Navy.
+mil16,Capitania Fluvial de Manaus,militar_marinha,São Raimundo,Oeste,-3.1300,-60.0240,3.5,3000,3,Capitania portuária.,Port captaincy.
+mil17,Base Fluvial de Rio Negro,militar_marinha,São Raimundo,Oeste,-3.1310,-60.0250,3.5,4000,4,Base fluvial.,Riverine base.
+mil18,Companhia de Fuzileiros Navais,militar_marinha,São Raimundo,Oeste,-3.1310,-60.0260,3.5,4500,4,Fuzileiros navais.,Marines.
+mil19,Batalhão de Operações Ribeirinhas,militar_marinha,São Raimundo,Oeste,-3.1300,-60.0260,3.5,3500,3,Operações ribeirinhas.,Riverine operations.
+mil20,Centro de Instrução Almirante Alexandrino,militar_marinha,São Raimundo,Oeste,-3.1310,-60.0260,3.5,4000,4,Treinamento de fuzileiros.,Marine training.
+pm01,Comando Geral PM-AM,militar_pm,Cachoeirinha,Sul,-3.1200,-60.0030,4.4,4000,4,Sede da Polícia Militar.,Military Police HQ.
+pm02,Centro Treinamento PM CFAP,militar_pm,Flores,Centro-Sul,-3.0700,-60.0070,3.4,5000,3,Formação de oficiais.,Officer training.
+pm03,Academia Polícia Civil,militar_pm,Cachoeirinha,Sul,-3.1200,-60.0030,4.4,3500,3,Formação policial civil.,Civil police academy.
+pm04,CIOPS,militar_pm,São Raimundo,Oeste,-3.1310,-60.0250,3.5,3500,3,Centro Integrado de Operações.,Integrated Ops Center.
+pm05,1º BPM,militar_pm,Centro,Sul,-3.1320,-60.0230,4.3,2500,3,Batalhão da PM.,Military Police battalion.
+pm06,BOPE-AM,militar_pm,Compensa,Oeste,-3.0950,-60.0830,3.8,2500,3,Batalhão de Operações Especiais.,Special Operations Battalion.
+pq01,Parque Estadual Sumaúma,parque,Cidade Nova,Norte,-3.0270,-60.0080,-1.5,0,1,53 ha de mata. Refúgio fresco.,53 ha forest. Cool refuge.
+pq02,Parque do Mindu,parque,Parque 10,Centro-Sul,-3.0950,-60.0050,-2.2,0,1,Refúgio em meio a Centro-Sul.,Cool refuge in Center-South.
+pq03,Parque dos Bilhares,parque,Adrianópolis,Centro-Sul,-3.0950,-60.0190,3.0,0,3,Pista de skate a 55 °C.,Skate park at 55 °C.
+pq04,Parque do Idoso,parque,Aleixo,Centro-Sul,-3.0830,-59.9870,-1.0,0,1,Sombreado.,Shaded.
+pq05,Parque Cidade da Criança,parque,Aleixo,Centro-Sul,-3.0840,-59.9880,2.5,0,3,Pátio externo crítico.,Critical outer courtyard.
+pq06,Parque Senador Jefferson Péres,parque,Centro,Sul,-3.1330,-60.0250,4.3,0,4,Sem sombra na orla.,No waterfront shade.
+pq07,Parque dos Buritis,parque,Tarumã,Oeste,-3.0570,-60.0680,1.0,0,2,Vegetação abundante.,Abundant vegetation.
+pq08,Parque Lagoa do Japiim,parque,Japiim,Sul,-3.1180,-59.9890,3.5,0,3,Em obras.,Under construction.
+pq09,Reserva Adolpho Ducke,parque,Cidade de Deus,Norte,-2.9610,-59.9290,0.0,0,1,Referência climática.,Climatic baseline.
+pq10,Parque Estadual do Rio Negro,parque,Tarumã,Oeste,-3.0570,-60.0700,0.5,0,1,Setor Sul; preservado.,South Sector; preserved.
+pr01,Praça da Saudade,praca,Centro,Sul,-3.1330,-60.0240,4.3,0,4,Brinquedos infantis quentes ao toque.,Hot playground equipment.
+pr02,Praça da Polícia,praca,Centro,Sul,-3.1325,-60.0249,4.3,0,4,Pedras portuguesas escaldantes.,Burning cobblestones.
+pr03,Praça 14 de Janeiro,praca,Praça 14,Sul,-3.1230,-60.0150,3.9,0,4,Brinquedos sem cobertura.,Uncovered playground.
+pr04,Praça da Matriz,praca,Centro,Sul,-3.1342,-60.0244,4.3,0,4,Frente da Catedral.,Cathedral front.
+pr05,Praça do Ingá,praca,Cidade Nova,Norte,-3.0270,-60.0090,3.8,0,3,Praça residencial.,Residential square.
+pr06,Mirante Lúcia Almeida,praca,Aleixo,Centro-Sul,-3.0830,-59.9870,3.5,0,4,Lago do Aleixo - sol direto.,Aleixo Lake - direct sun.
+pr07,Largo do São Sebastião,praca,Centro,Sul,-3.1308,-60.0240,4.3,0,4,Frente do Teatro Amazonas.,Amazon Theatre front.
+ig01,Catedral da Fé Universal,igreja,Alvorada,Centro-Oeste,-3.0830,-60.0445,4.7,3500,4,Estacionamento crítico.,Critical parking.
+ig02,Igreja Matriz N.S. da Conceição,igreja,Centro,Sul,-3.1342,-60.0244,4.3,2000,4,Catedral Metropolitana.,Metropolitan Cathedral.
+ig03,Igreja Matriz São Raimundo Nonato,igreja,São Raimundo,Oeste,-3.1090,-60.0510,3.7,1800,3,Pátio histórico.,Historic courtyard.
+ig04,Casa das Artes,igreja,Centro,Sul,-3.1320,-60.0230,4.3,1500,3,Espaço cultural ecumênico.,Ecumenical cultural space.
+ig05,Igreja Universal Catedral da Fé,igreja,Alvorada,Centro-Oeste,-3.0830,-60.0445,4.7,3000,4,Pátio sob sol.,Yard under sun.
+es01_dist,Saída BR-174 km 0-25,estrada,Cidade Nova/Tarumã,Norte,-3.0150,-60.0270,4.0,0,5,Asfalto a 60 °C; saída para Boa Vista.,Asphalt at 60 °C; exit to Boa Vista.
+es02_dist,Saída AM-010 km 0-30,estrada,Cidade Nova/Puraquequara,Norte,-3.0260,-59.9700,4.0,0,5,Saída para Itacoatiara.,Exit to Itacoatiara.
+es03_dist,Saída BR-319 km 0,estrada,Distrito Industrial,Sul,-3.1500,-59.9700,4.5,0,5,Asfalto exposto até 70 °C; saída para Porto Velho.,Asphalt up to 70 °C; exit to Porto Velho.
+es04_dist,Saída AM-070 Ponte Rio Negro,estrada,Compensa,Oeste,-3.1100,-60.0900,4.0,0,5,Asfalto da ponte a 65 °C.,Bridge asphalt at 65 °C.
+es05_dist,Ramal do Brasileirinho,estrada,Puraquequara,Sul,-3.0600,-59.8800,3.5,0,3,Terra batida; poeira.,Dirt road; dust.
+ri01,Encontro das Águas,rio_orla,Educandos,Sul,-3.1330,-59.9560,2.0,0,3,Encontro Negro/Solimões.,Negro/Solimões meeting.
+ri02,Igarapé do Mindu,rio_orla,Parque 10,Centro-Sul,-3.0950,-60.0050,2.0,0,2,Vetor de fresco.,Cooling corridor.
+ri03,Igarapé do Quarenta,rio_orla,Educandos/DI,Sul,-3.1330,-60.0050,4.5,0,5,Canalizado e poluído.,Channelized and polluted.
+ri04,Igarapé do São Raimundo,rio_orla,São Raimundo,Oeste,-3.1080,-60.0510,3.5,0,3,Antigo balneário.,Former bathing area.
+ri05,Igarapé do Educandos,rio_orla,Educandos,Sul,-3.1430,-60.0200,3.5,0,4,Margens densamente ocupadas.,Densely occupied banks.
+ri06,Igarapé do Tarumã,rio_orla,Tarumã,Oeste,-3.0570,-60.0680,1.0,0,1,Parcialmente preservado.,Partially preserved.
+ri07,Lago do Aleixo,rio_orla,Aleixo,Centro-Sul,-3.0830,-59.9870,2.5,0,2,Balneário comunitário.,Community bathing.
+es15,IFAM Manaus Centro,universidade,Centro,Sul,-3.1340,-60.0250,4.3,4000,4,Instituto Federal.,Federal Institute.
