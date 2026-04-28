@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0c0c12" />
+  <meta name="description" content="Mapeamento de ilhas de calor urbano em Manaus com indicador de potencial fotovoltaico." />
+  <title>Mapa de Calor Solar de Manaus</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="preconnect" href="https://basemaps.cartocdn.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark"></span>
+      <div>
+        <h1 data-i18n="title">Mapa de Calor Solar de Manaus</h1>
+        <p class="tagline" data-i18n="tagline">Ilhas de calor urbano e potencial fotovoltaico</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <button class="lang-toggle" id="langToggle" aria-label="Toggle language">EN</button>
+    </div>
+  </header>
+
+  <aside class="sidebar" id="sidebar">
+    <section class="panel">
+      <h2 data-i18n="overview">Panorama</h2>
+      <div class="stats">
+        <div class="stat">
+          <span class="stat-value" id="statPoints">—</span>
+          <span class="stat-label" data-i18n="stat_points">Pontos mapeados</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statHotZone">—</span>
+          <span class="stat-label" data-i18n="stat_hottest">Bairro mais crítico</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="statSolar">—</span>
+          <span class="stat-label" data-i18n="stat_solar">Potencial total (GWh/ano)</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="layers">Camadas</h2>
+      <div class="layer-toggles">
+        <label class="toggle">
+          <input type="radio" name="layer" value="heat" checked />
+          <span data-i18n="layer_heat">Calor</span>
+        </label>
+        <label class="toggle">
+          <input type="radio" name="layer" value="solar" />
+          <span data-i18n="layer_solar">Solar</span>
+        </label>
+        <label class="toggle">
+          <input type="radio" name="layer" value="both" />
+          <span data-i18n="layer_both">Ambos</span>
+        </label>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="filters">Filtros</h2>
+      <label class="field">
+        <span data-i18n="filter_zone">Zona</span>
+        <select id="filterZone">
+          <option value="all" data-i18n="all">Todas</option>
+        </select>
+      </label>
+      <label class="field">
+        <span data-i18n="filter_category">Categoria</span>
+        <select id="filterCategory">
+          <option value="all" data-i18n="all">Todas</option>
+        </select>
+      </label>
+      <label class="field">
+        <span data-i18n="filter_search">Busca</span>
+        <input type="search" id="filterSearch" placeholder="Buscar por nome..." />
+      </label>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="calc_title">Estime seu telhado</h2>
+      <p class="muted" data-i18n="calc_intro">Informe a área disponível e a zona para uma estimativa preliminar.</p>
+      <label class="field">
+        <span data-i18n="calc_area">Área disponível (m²)</span>
+        <input type="number" id="calcArea" min="1" step="1" value="80" />
+      </label>
+      <label class="field">
+        <span data-i18n="calc_zone">Zona</span>
+        <select id="calcZone"></select>
+      </label>
+      <button class="primary" id="calcRun" data-i18n="calc_run">Calcular</button>
+      <div class="calc-result" id="calcResult" hidden></div>
+    </section>
+
+    <section class="panel">
+      <h2 data-i18n="legend">Legenda</h2>
+      <div class="legend">
+        <div class="legend-row"><span class="dot lvl-5"></span><span data-i18n="lvl_5">Crítico (anomalia ≥ 5 °C)</span></div>
+        <div class="legend-row"><span class="dot lvl-4"></span><span data-i18n="lvl_4">Alto (≥ 4 °C)</span></div>
+        <div class="legend-row"><span class="dot lvl-3"></span><span data-i18n="lvl_3">Médio (≥ 3 °C)</span></div>
+        <div class="legend-row"><span class="dot lvl-2"></span><span data-i18n="lvl_2">Baixo (&lt; 3 °C)</span></div>
+        <div class="legend-row"><span class="dot lvl-cool"></span><span data-i18n="lvl_cool">Refúgio fresco</span></div>
+      </div>
+    </section>
+
+    <footer class="sidebar-foot">
+      <a href="methodology.md" target="_blank" rel="noopener" data-i18n="methodology">Metodologia</a>
+      <span class="sep">•</span>
+      <a href="https://github.com/wervley/mapa-calor-solar-manaus" target="_blank" rel="noopener">GitHub</a>
+    </footer>
+  </aside>
+
+  <main class="map-wrap">
+    <div id="map" role="application" aria-label="Mapa interativo de Manaus"></div>
+    <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <div class="loading" id="loading">
+      <div class="spinner"></div>
+      <p data-i18n="loading">Carregando dados...</p>
+    </div>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>
